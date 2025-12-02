@@ -12,7 +12,7 @@ Dataset
 The dataset `data/Bank_Churn_Dataset.csv` contains customer demographics and account information including: `CreditScore`, `Geography`, `Gender`, `Age`, `Tenure`, `Balance`, `NumOfProducts`, `HasCrCard`, `IsActiveMember`, `EstimatedSalary` and the target variable `Exited` (1 = customer left, 0 = stayed).
 
 Exploratory Data Analysis (EDA)
-Below are key visualizations produced during analysis (polished for corporate presentation). Each figure is located in the `images/` folder.
+Below are key visualizations produced during analysis 
 
 Churn distribution (Stayed vs Exited)
 <img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
