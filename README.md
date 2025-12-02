@@ -72,12 +72,6 @@ Below are the key visual insights generated during analysis:
 
 ---
 
-📈 ROC Curve (Model Performance)
-
-
-<img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
-
----
 
 📊 Mock Professional Dashboard
 
