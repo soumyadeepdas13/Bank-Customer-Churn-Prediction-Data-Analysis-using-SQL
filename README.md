@@ -46,6 +46,7 @@ Below are the key visual insights generated during analysis:
 📌 Churn Distribution
 
 <img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
+
 ---
 
 🏆 Top 5 Customers (Based on Score, Tenure & Balance)
@@ -75,6 +76,7 @@ Below are the key visual insights generated during analysis:
 
 
 <img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
+
 ---
 
 📊 Mock Professional Dashboard
