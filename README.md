@@ -1,8 +1,4 @@
-Here is a polished, GitHub-ready, professionally structured README.md for your Customer Churn Analytics – Banking (UpGrad Mentor-led Internship) project.
 
-You can copy–paste directly into GitHub — all markdown is fully GitHub-compatible (no red headings, no unsupported formats).
-
-⸻
 
 📊 Customer Churn Analytics – Banking
 
