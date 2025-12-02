@@ -32,8 +32,6 @@ Correlation matrix (numeric features)
 Model performance — ROC curve
 <img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
 
-trix_polished" src="https://github.com/user-attachments/assets/38901bae-0d93-411e-b6c5-2e213296a04c" />
-
 
 Mock professional dashboard (summary view)  
 <img width="2400" height="1200" alt="mock_dashboard_polished" src="https://github.com/user-attachments/assets/b008ecfc-a1fc-4579-a477-f35aeb905928" />
