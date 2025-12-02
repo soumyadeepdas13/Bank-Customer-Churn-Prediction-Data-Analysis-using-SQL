@@ -1,4 +1,4 @@
-# Customer Churn Analytics - Banking (UpGrad Mentor-led Internship)
+<img width="900" height="900" alt="confusion_matrix_polished" src="https://github.com/user-attachments/assets/04bba6a4-9e91-4df4-846e-bd67d0d056d4" /># Customer Churn Analytics - Banking (UpGrad Mentor-led Internship)
 
 **Author:** Soumyadeep Das  
 **Project:** Customer Churn Analytics (Banking) — Mentor-led internship with UpGrad
@@ -15,22 +15,31 @@ The dataset `data/Bank_Churn_Dataset.csv` contains customer demographics and acc
 Below are key visualizations produced during analysis (polished for corporate presentation). Each figure is located in the `images/` folder.
 
 **Churn distribution (Stayed vs Exited)**  
-![Churn distribution](images/churn_pie_polished.png)
+<img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
+
+**Top 5 customers**
+<img width="1600" height="800" alt="top5_customers" src="https://github.com/user-attachments/assets/09ef34c6-d2d5-4d06-b80e-360d85e1bfc2" />
+
 
 **Age distribution**  
-![Age distribution](images/age_hist_polished.png)
+<img width="1600" height="1000" alt="age_hist_polished" src="https://github.com/user-attachments/assets/23199090-2f2d-43c4-a62e-b7c836ccd563" />
+
 
 **Correlation matrix (numeric features)**  
-![Correlation matrix](images/corr_matrix_polished.png)
+<img width="2000" height="1600" alt="corr_matrix_polished" src="https://github.com/user-attachments/assets/93c3717b-14f4-4942-ba97-ef3bfea21dfa" />
+
 
 **Model performance — ROC curve**  
-![ROC curve](images/roc_curve_polished.png)
+<img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
+
 
 **Model performance — Confusion matrix**  
-![Confusion matrix](images/confusion_matrix_polished.png)
+<img width="900" height="900" alt="confusion_matrix_polished" src="https://github.com/user-attachments/assets/38901bae-0d93-411e-b6c5-2e213296a04c" />
+
 
 **Mock professional dashboard (summary view)**  
-![Mock dashboard](images/mock_dashboard_polished.png)
+<img width="2400" height="1200" alt="mock_dashboard_polished" src="https://github.com/user-attachments/assets/b008ecfc-a1fc-4579-a477-f35aeb905928" />
+
 
 ## Key Findings
 - The overall churn rate is visible in the churn distribution image; use this to prioritize interventions.  
