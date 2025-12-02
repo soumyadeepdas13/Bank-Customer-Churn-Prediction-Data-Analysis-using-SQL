@@ -32,8 +32,7 @@ Correlation matrix (numeric features)
 Model performance — ROC curve
 <img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
 
-Model performance — Confusion matrix
-<img width="900" height="900" alt="confusion_matrix_polished" src="https://github.com/user-attachments/assets/38901bae-0d93-411e-b6c5-2e213296a04c" />
+trix_polished" src="https://github.com/user-attachments/assets/38901bae-0d93-411e-b6c5-2e213296a04c" />
 
 
 Mock professional dashboard (summary view)  
@@ -46,11 +45,6 @@ Mock professional dashboard (summary view)
 - Correlations indicate relationships between `CreditScore`, `Balance`, `Tenure` and `Exited` that can be used for feature selection.  
 - Baseline Logistic Regression yields a respectable AUC (reported in `models/metrics.txt`); further model tuning is recommended.
 
-## Recommendations
-1. **Targeted retention campaigns**: Use model scores to target customers with high predicted churn probability with tailored offers.  
-2. **High-value customer protection**: Identify high-balance or high-salary customers who are at risk and offer personalized incentives (fee waivers, preferential rates).  
-3. **Onboarding & engagement**: Strengthen onboarding processes for low-tenure customers and offer cross-sell opportunities for customers with fewer products.  
-4. **A/B test retention offers**: Run experiments to evaluate which incentives reduce churn cost-effectively.
 
 ---
 *Prepared for UpGrad Mentor-led Internship submission.*
