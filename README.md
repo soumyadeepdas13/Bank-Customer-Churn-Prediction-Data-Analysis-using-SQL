@@ -1,43 +1,42 @@
 Customer Churn Analytics - Banking (UpGrad Mentor-led Internship)
 
-**Author:** Soumyadeep Das  
-**Project:** Customer Churn Analytics (Banking) — Mentor-led internship with UpGrad
+
+Project: Customer Churn Analytics (Banking) — Mentor-led internship with UpGrad
 
 ---
 
-## Problem Statement
+Problem Statement
 Customer churn is a critical concern for retail banks. The objective of this project is to analyze customer behavior, identify factors that drive attrition, and build a baseline predictive model to flag customers at risk of leaving so targeted retention strategies can be designed.
 
-## Dataset
+Dataset
 The dataset `data/Bank_Churn_Dataset.csv` contains customer demographics and account information including: `CreditScore`, `Geography`, `Gender`, `Age`, `Tenure`, `Balance`, `NumOfProducts`, `HasCrCard`, `IsActiveMember`, `EstimatedSalary` and the target variable `Exited` (1 = customer left, 0 = stayed).
 
-## Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 Below are key visualizations produced during analysis (polished for corporate presentation). Each figure is located in the `images/` folder.
 
-**Churn distribution (Stayed vs Exited)**  
+Churn distribution (Stayed vs Exited)
 <img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
 
-**Top 5 customers**
+Top 5 customers
 <img width="1600" height="800" alt="top5_customers" src="https://github.com/user-attachments/assets/09ef34c6-d2d5-4d06-b80e-360d85e1bfc2" />
 
 
-**Age distribution**  
+Age distribution
 <img width="1600" height="1000" alt="age_hist_polished" src="https://github.com/user-attachments/assets/23199090-2f2d-43c4-a62e-b7c836ccd563" />
 
 
-**Correlation matrix (numeric features)**  
+Correlation matrix (numeric features)
 <img width="2000" height="1600" alt="corr_matrix_polished" src="https://github.com/user-attachments/assets/93c3717b-14f4-4942-ba97-ef3bfea21dfa" />
 
 
-**Model performance — ROC curve**  
+Model performance — ROC curve
 <img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
 
-
-**Model performance — Confusion matrix**  
+Model performance — Confusion matrix
 <img width="900" height="900" alt="confusion_matrix_polished" src="https://github.com/user-attachments/assets/38901bae-0d93-411e-b6c5-2e213296a04c" />
 
 
-**Mock professional dashboard (summary view)**  
+Mock professional dashboard (summary view)  
 <img width="2400" height="1200" alt="mock_dashboard_polished" src="https://github.com/user-attachments/assets/b008ecfc-a1fc-4579-a477-f35aeb905928" />
 
 
