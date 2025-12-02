@@ -116,14 +116,6 @@ analysis.ipynb
 
 for a step-by-step notebook version.
 
-4. Model results
-
-Results (metrics, exported figures, predictions) are stored inside the:
-
-/models
-/plots
-
-
 ---
 
 
