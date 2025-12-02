@@ -45,15 +45,21 @@ Below are the key visual insights generated during analysis:
 
 📌 Churn Distribution
 
+<img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
 
 ⸻
 
 🏆 Top 5 Customers (Based on Score, Tenure & Balance)
 
 
+<img width="1600" height="800" alt="top5_customers" src="https://github.com/user-attachments/assets/09ef34c6-d2d5-4d06-b80e-360d85e1bfc2" />
+
 ⸻
 
 👤 Age Distribution
+
+
+<img width="1600" height="1000" alt="age_hist_polished" src="https://github.com/user-attachments/assets/23199090-2f2d-43c4-a62e-b7c836ccd563" />
 
 
 ⸻
@@ -61,16 +67,22 @@ Below are the key visual insights generated during analysis:
 🧩 Correlation Matrix
 
 
+<img width="2000" height="1600" alt="corr_matrix_polished" src="https://github.com/user-attachments/assets/93c3717b-14f4-4942-ba97-ef3bfea21dfa" />
+
+
 ⸻
 
 📈 ROC Curve (Model Performance)
 
 
+<img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
 ⸻
 
 📊 Mock Professional Dashboard
 
-(For presentation/portfolio purposes)
+
+<img width="2400" height="1200" alt="mock_dashboard_polished" src="https://github.com/user-attachments/assets/b008ecfc-a1fc-4579-a477-f35aeb905928" />
+
 
 
 ⸻
