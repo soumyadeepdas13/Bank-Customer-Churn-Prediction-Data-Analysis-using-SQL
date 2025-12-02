@@ -1,4 +1,4 @@
-<img width="900" height="900" alt="confusion_matrix_polished" src="https://github.com/user-attachments/assets/04bba6a4-9e91-4df4-846e-bd67d0d056d4" /># Customer Churn Analytics - Banking (UpGrad Mentor-led Internship)
+Customer Churn Analytics - Banking (UpGrad Mentor-led Internship)
 
 **Author:** Soumyadeep Das  
 **Project:** Customer Churn Analytics (Banking) — Mentor-led internship with UpGrad
