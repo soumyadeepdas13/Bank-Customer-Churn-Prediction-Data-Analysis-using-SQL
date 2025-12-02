@@ -52,22 +52,5 @@ Mock professional dashboard (summary view)
 3. **Onboarding & engagement**: Strengthen onboarding processes for low-tenure customers and offer cross-sell opportunities for customers with fewer products.  
 4. **A/B test retention offers**: Run experiments to evaluate which incentives reduce churn cost-effectively.
 
-## How to Run
-1. Create and activate a virtual environment (recommended):  
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Windows: venv\Scripts\activate
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. To reproduce the analysis and images:  
-   - Open `analysis.ipynb` in Jupyter Notebook / JupyterLab and run cells, or run the script:  
-     ```bash
-     python analysis.py
-     ```
-4. Model artifacts are saved in the `models/` folder (`logistic_regression_baseline.pkl`, `metrics.txt`, `test_predictions.csv`).
-
 ---
 *Prepared for UpGrad Mentor-led Internship submission.*
