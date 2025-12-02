@@ -69,8 +69,5 @@ Mock professional dashboard (summary view)
      ```
 4. Model artifacts are saved in the `models/` folder (`logistic_regression_baseline.pkl`, `metrics.txt`, `test_predictions.csv`).
 
-## Licensing
-This project and its contents are released under the MIT License — feel free to reuse, adapt, and extend for learning or portfolio purposes. See `LICENSE` for details.
-
 ---
 *Prepared for UpGrad Mentor-led Internship submission.*
