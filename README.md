@@ -6,7 +6,7 @@ Mentor-Led Internship Project (UpGrad)
 
 Understanding why customers leave is one of the most important challenges for retail banks. This project analyzes customer behavior, identifies the major drivers of churn, and builds a baseline predictive model to help banks proactively retain high-risk customers.
 
-⸻
+---
 
 🚨 Problem Statement
 
@@ -15,7 +15,7 @@ Banks face increasing difficulty in retaining customers due to competition, digi
 Goal:
 To perform churn analysis using customer demographics and account-related attributes, explore key patterns, and build a predictive model to classify high-risk customers so that targeted retention measures can be implemented.
 
-⸻
+---
 
 📁 Dataset
 
@@ -37,7 +37,7 @@ It contains the following columns:
 
 These features help uncover behavioral and financial patterns linked to customer attrition.
 
-⸻
+---
 
 🔍 Exploratory Data Analysis (EDA)
 
@@ -46,15 +46,14 @@ Below are the key visual insights generated during analysis:
 📌 Churn Distribution
 
 <img width="1400" height="1000" alt="churn_pie_polished" src="https://github.com/user-attachments/assets/aedefafb-a7e3-4a6c-aa4e-15d083779a44" />
-
-⸻
+---
 
 🏆 Top 5 Customers (Based on Score, Tenure & Balance)
 
 
 <img width="1600" height="800" alt="top5_customers" src="https://github.com/user-attachments/assets/09ef34c6-d2d5-4d06-b80e-360d85e1bfc2" />
 
-⸻
+---
 
 👤 Age Distribution
 
@@ -62,7 +61,7 @@ Below are the key visual insights generated during analysis:
 <img width="1600" height="1000" alt="age_hist_polished" src="https://github.com/user-attachments/assets/23199090-2f2d-43c4-a62e-b7c836ccd563" />
 
 
-⸻
+---
 
 🧩 Correlation Matrix
 
@@ -70,13 +69,13 @@ Below are the key visual insights generated during analysis:
 <img width="2000" height="1600" alt="corr_matrix_polished" src="https://github.com/user-attachments/assets/93c3717b-14f4-4942-ba97-ef3bfea21dfa" />
 
 
-⸻
+---
 
 📈 ROC Curve (Model Performance)
 
 
 <img width="1400" height="1000" alt="roc_curve_polished" src="https://github.com/user-attachments/assets/77bc5142-eb93-4cec-8fca-ad21afb6e6f5" />
-⸻
+---
 
 📊 Mock Professional Dashboard
 
@@ -85,7 +84,7 @@ Below are the key visual insights generated during analysis:
 
 
 
-⸻
+---
 
 🧠 Key Findings
 	•	Churn rate is moderate, indicating immediate need for targeted retention strategies.
@@ -96,7 +95,7 @@ Below are the key visual insights generated during analysis:
 	•	Ensemble models
 	•	Better data balancing techniques
 
-⸻
+---
 
 ⚙️ How to Run This Project
 
@@ -129,7 +128,7 @@ Results (metrics, exported figures, predictions) are stored inside the:
 /plots
 
 
-⸻
+---
 
 
 
@@ -138,5 +137,5 @@ Results (metrics, exported figures, predictions) are stored inside the:
 UpGrad Mentor-Led Internship Program (Business Analytics & Data Science Track)
 Project: Customer Churn Analytics – Banking
 
-⸻
+---
 
